@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\AISD-main\Laba2vs\Laba2vs\Laba2vs\bin\x64\Debug\Laba2vs.exe.config
+C:\Users\Student\Desktop\AISD-main\Laba2vs\Laba2vs\Laba2vs\bin\x64\Debug\Laba2vs.exe
+C:\Users\Student\Desktop\AISD-main\Laba2vs\Laba2vs\Laba2vs\bin\x64\Debug\Laba2vs.pdb
+C:\Users\Student\Desktop\AISD-main\Laba2vs\Laba2vs\Laba2vs\obj\x64\Debug\Laba2vs.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\AISD-main\Laba2vs\Laba2vs\Laba2vs\obj\x64\Debug\Laba2vs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\AISD-main\Laba2vs\Laba2vs\Laba2vs\obj\x64\Debug\Laba2vs.exe
+C:\Users\Student\Desktop\AISD-main\Laba2vs\Laba2vs\Laba2vs\obj\x64\Debug\Laba2vs.pdb
